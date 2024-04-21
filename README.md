@@ -1,17 +1,17 @@
 # Android_studio_Tourtrek
 #By PunitPrajapati
 
-This is my First Android Application from android studio.
+This is my First Android Application from Android studio.
 
 Description:
 - This is 8 page Travel application 
-- That has login/ signUp page and attach firbase
+- That has login/ SignUp page and Attach firebase
 
 How to access:
-  -copy all drawable files/folder
   - Copy java folder
+  - Copy all drawable folder for images
   - layout files
   - Manifest files
   - also import gradle files
 
-    # Thankyou any good change in this project is appreciated..
+    # Thank you any good change in this project is appreciated.
